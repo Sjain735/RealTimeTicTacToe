@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/theme_Background">
+
+    <Button
+        android:id="@+id/ad_button_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/icons_circle_3"
+        android:layout_margin="10dp"
+        android:layout_weight="1">
+        <requestFocus/>
+    </Button>
+
+    <Button
+        android:id="@+id/ad_button_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/icons_cross_3"
+        android:layout_margin="10dp"
+        android:layout_weight="1"/>
+
+</LinearLayout>

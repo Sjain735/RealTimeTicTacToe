@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "385819086178",
+    "firebase_url": "https://tictacfirebase-42c23.firebaseio.com",
+    "project_id": "tictacfirebase-42c23",
+    "storage_bucket": "tictacfirebase-42c23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385819086178:android:7b7f6c83776132e0",
+        "android_client_info": {
+          "package_name": "neetiayog.samarthgupta.com.tictacfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385819086178-l8audb2vic32t79ik592ul9o7ge98nc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "neetiayog.samarthgupta.com.tictacfirebase",
+            "certificate_hash": "32bd86ef74d04b8bea32b2d7895063f4e6367558"
+          }
+        },
+        {
+          "client_id": "385819086178-nj0cbqgvcofh3p1n19j1u9j10j6femc6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "385819086178-nj0cbqgvcofh3p1n19j1u9j10j6femc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXhDFR5mx6Ju7N-9FV1dBKHnij4cBz3xk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385819086178-nj0cbqgvcofh3p1n19j1u9j10j6femc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
